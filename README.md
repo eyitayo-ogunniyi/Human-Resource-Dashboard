@@ -34,7 +34,7 @@ The Engineering department has the most employees. The company hired more Resear
 
 **Turnover Rate**
 
-![Employee-Turnover-Rate](Employee-turnover-rate.png)
+![Employee-Turnover-Rate](Employee-turnover.png)
 
 The number of Employees that have left the company between 2020 and now is 2,294. The turnover rate is 11.6%, which means that 11.6% of all employees hired have left the company.
 
