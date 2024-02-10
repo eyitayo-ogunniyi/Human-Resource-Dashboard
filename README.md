@@ -1,4 +1,4 @@
-# HR Dashbaord
+# HR Dashboard
 
 ### Background
 In this project, I work for a fictitious company that wants to increase diversity and enhance retention in the workplace. 
