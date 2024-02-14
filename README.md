@@ -20,7 +20,7 @@ Understanding the above metrics helps executives make data-driven decisions. The
 The purpose of this post is to show insights and recommendations based on my visualization.
 
 ### Insights
-I grouped my findings under Employee diversity and turnover rate, so I developed two [dashboards]() for ease of communication. 
+I grouped my findings under Employee diversity and turnover rate and I developed two [dashboards](https://github.com/eyitayo22/Human-Resource-Dashboard/tree/main/HR%20Dashboard) to communicate my findings.
 
 **Employee Diversity**
 
