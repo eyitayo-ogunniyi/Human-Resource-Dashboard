@@ -20,11 +20,11 @@ Understanding the above metrics helps executives make data-driven decisions. The
 The purpose of this post is to show insights and recommendations based on my visualization.
 
 ### Insights
-I grouped my findings under Employee diversity and turnover rate and I developed two [dashboards](https://github.com/eyitayo22/Human-Resource-Dashboard/tree/main/HR%20Dashboard) to communicate my findings.
+I grouped my findings under Employee diversity and turnover rate and I developed two [dashboards](https://public.tableau.com/app/profile/eyitayo.ogunniyi/viz/HRDashboard_16935056989710/HRDashboard) to communicate my findings.
 
 **Employee Diversity**
 
-![Diversity](HR Dashboard/Employee-Diversity.png)
+[Diversity](HR Dashboard/Employee-Diversity.png)
 
 The total number of Employees hired from 2000 to 2020 is 19,776, out of which 14,864 work from the headquarters. This means that **25%** of employees work remotely.
 
