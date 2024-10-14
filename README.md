@@ -24,6 +24,8 @@ I grouped my findings under Employee diversity and turnover rate and I developed
 
 **Employee Diversity**
 
+![Diversity](HR Dashboard/Employee-Diversity.png)
+
 The total number of Employees hired from 2000 to 2020 is 19,776, out of which 14,864 work from the headquarters. This means that **25%** of employees work remotely.
 
 50.87% of people hired are Male, 46.40% female, and **2.73%** non-conforming. The company has more employees between the ages of 30 to 49.
@@ -34,7 +36,7 @@ The Engineering department has the most employees. The company hired more Resear
 
 **Turnover Rate**
 
-![Employee-Turnover-Rate](Employee-turnover.png)
+![Employee Turnover Rate](HR Dashboard/Employee-Turnover.png)
 
 The number of Employees that have left the company between 2020 and now is 2,294. The turnover rate is 11.6%, which means that 11.6% of all employees hired have left the company.
 
